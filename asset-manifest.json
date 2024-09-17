@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sopping-Cart/static/css/main.98b63062.css",
+    "main.js": "/Sopping-Cart/static/js/main.43aaf05c.js",
+    "index.html": "/Sopping-Cart/index.html",
+    "main.98b63062.css.map": "/Sopping-Cart/static/css/main.98b63062.css.map",
+    "main.43aaf05c.js.map": "/Sopping-Cart/static/js/main.43aaf05c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98b63062.css",
+    "static/js/main.43aaf05c.js"
+  ]
+}
